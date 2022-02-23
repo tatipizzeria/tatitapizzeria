@@ -1,0 +1,135 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+ .textos{
+        text-align: center;
+        background-color: orangered;
+        color: rgb(255, 255, 255);
+        padding: 20px;
+}
+
+.menu{
+ background-color: aqua;
+ width: 100%;
+ list-style-type: none;
+ text-align: right;
+
+}
+.menu{
+    display: inline-flex;
+}
+
+.menu a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 50px;
+    width: 100%;
+}
+
+.menu a:hover{
+    background-color: white;
+}
+.icono{
+    margin: -30px -250px 10px 10px;
+}
+.logo{
+    margin: -30px -140px 10px 10px;
+}
+.promociones{
+    color: rgba(15, 9, 9, 0.739);
+    
+   
+}
+.promociones h1{
+    background: aqua;
+    width: 42%;
+}
+
+.service{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin: 90px 10px 10px 600px;
+}
+
+
+.contenedor-promociones{
+    margin: 70px 10px 10px -400px;
+}
+
+.contenedor-promociones1{
+    margin: -337px 10px 10px 200px;
+}
+
+.contenedor-promociones2{
+    margin: 80px 10px 10px 200px;
+}
+
+.contenedor-promociones3{
+    margin: -337px 10px 10px -400px;
+}
+footer{
+    background: #ee9d77;
+    
+}
+.contenedor-servicios1{
+    margin: 80px 10px 10px 50px;
+}
+.contenedor-servicios2{
+    margin: -363px 10px 10px 500px;
+}
+.contenedor-servicios3{
+    margin: -365px 10px 10px 950px;
+}
+.contenedor-servicios4{
+    margin: 80px 10px 10px 50px;
+}
+.contenedor-servicios5{
+    margin: -365px 10px 10px 500px;
+}
+.contenedor-servicios6{
+    margin: -368px 10px 10px 950px;
+}
+
+.mapa {
+    margin: 60px 10px 10px 60px;
+
+}
+
+.contact-us{
+    margin: -500px 10px 10px 750px;
+    background:#ee9d77;
+    height: 350px;
+
+}
+.contactos{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin: 90px 10px 10px 600px;
+}
+.promo{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    margin: 90px 10px 10px 600px;
+    
+}
+.yoma{
+    margin: 90px 10px 10px 10px;
+}
+.mb-3{
+    margin: 10px 10px 10px 10px;
+
+}
+
+.service{
+    background: aqua;
+    width: 15%;
+}
+
+.contactos{
+    background: aqua;
+    width: 20%;
+}
+
